@@ -1,7 +1,7 @@
 rt urllib.request
 import re
 import os
-aaasd
+aaasdasd223
 #######################################`
 ##############################################
 def lastnum(lastnum=None,fname='lottery_numbers.txt'):
