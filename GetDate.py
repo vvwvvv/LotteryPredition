@@ -1,2 +1,2 @@
 #encoding    #
-import
+import sys
