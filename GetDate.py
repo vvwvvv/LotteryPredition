@@ -1,5 +1,14 @@
 #encoding    #
 import sys
 import os
-import abc
+class aa():
+    def bb(self,l):
+        print(l)
+
+
+    pass
+aaaa= aa()
+aaaa.bb("ccgtm")
+
+
 
