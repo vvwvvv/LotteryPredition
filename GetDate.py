@@ -8,7 +8,4 @@ class aa():
 
     pass
 aaaa= aa()
-aaaa.bb("ccgtm")
-
-
-
+aaaa.bb("文件系统")
